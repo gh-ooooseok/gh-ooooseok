@@ -1,9 +1,13 @@
 - 👋 Hi, I’m @gh-ooooseok
 - 👀 I’m interested in UI/UX and FE
 
-KAIST Industrial Design Bachelor of Engineering (Minor in Computer Science)
-2021.06 ~ 2021.12 Naver Clova Intern (Research/Dev/Design)
-2020.09 ~ KAIST Next Interface Lab M.S. student
+---
+
++ KAIST Industrial Design Bachelor of Engineering (Minor in Computer Science)
++ 2021.06 ~ 2021.12 Naver Clova Intern (Research/Dev/Design)
++ 2020.09 ~ KAIST Next Interface Lab M.S. student
+
+---
 
 ooooseok@kaist.ac.kr
 
